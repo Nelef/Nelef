@@ -19,7 +19,6 @@
 | [**법숲**](https://github.com/Nelef/beopsoop) | 일상의 말로 묻고 법 조문으로 답하는 한국 법령 RAG - 근거 없으면 답하지 않음, 검색 hit@5 0.90 | Node.js · bge-m3 · LangGraph · MCP |
 | [**DART Deck**](https://github.com/Nelef/dart-deck) | 말로 만들고 말로 고치는 발표 자료 - Claude Code 에이전트가 덱을 쓰고 화면을 찍어 스스로 확인 | Python · Claude Code · MCP · PPTX |
 | [**청약 레이더**](https://github.com/Nelef/chungyak-radar) | 서울 · 경기 청약 공고 수집, 텔레그램 알림, 필요현금 · 통근시간 계산 | FastAPI · APScheduler · Docker |
-| [**Fold/Lab**](https://github.com/Nelef/foldlab) | 폴더블 폰을 브라우저에서 접고 펴 보는 3D 실험실 - [데모](https://nelef.github.io/foldlab/) | Three.js |
 
 ### 기술
 
