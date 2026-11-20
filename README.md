@@ -1,9 +1,13 @@
 <h2 align="center">장우영 · U Yeong Jang</h2>
 <p align="center"><b>LLM · VLM 애플리케이션 개발자</b> - 에이전트와 백엔드를 만들고, 결과를 측정해 고칩니다.</p>
 
+<h3 align="center"><a href="https://uyai.imoneleft.synology.me/">포트폴리오 · 라이브 데모 보기 →</a></h3>
+
+<p align="center"><a href="https://uyai.imoneleft.synology.me/"><img src="assets/uyai.png" width="100%" alt="uyai - 직접 만들어 운영하는 AI 프로젝트 포트폴리오(AI PPT · 법숲 · 별이 AI · 청약 레이더 · Fashion Lab)"></a></p>
+
 <p align="center">
-<a href="https://uyai.imoneleft.synology.me/"><img src="https://img.shields.io/badge/포트폴리오 · 데모-uyai-2E6B5E" alt="uyai"></a>
-<a href="mailto:imoneleft@naver.com"><img src="https://img.shields.io/badge/mail-imoneleft@naver.com-03C75A?logo=naver&logoColor=white" alt="mail"></a>
+<a href="https://uyai.imoneleft.synology.me/"><img src="https://img.shields.io/badge/포트폴리오-uyai.imoneleft.synology.me-2E6B5E?style=for-the-badge" alt="uyai"></a>
+<a href="mailto:imoneleft@naver.com"><img src="https://img.shields.io/badge/mail-imoneleft@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="mail"></a>
 </p>
 
 금융 태블릿 창구 앱(Android)을 3년 만든 뒤, 문서 인식(VLM + OCR) · RAG · AI 에이전트 서비스로 옮겨 왔습니다. 모바일부터 프론트 · 백엔드 · 인프라 · LLM 서빙까지 직접 만들고, 바꿀 때마다 같은 기준으로 재서 결정합니다.
